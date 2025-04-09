@@ -1,6 +1,10 @@
 # PongGame
 
-Este es mi primer proyecto desarrollado en Unity. Corresponde a una versión personalizada del clásico juego Pong.
+Este es un proyecto individual desarrollado en Unity como parte de mi aprendizaje en el desarrollo de videojuegos. Corresponde a una versión personalizada del clásico juego Pong.
+
+## Objetivo del proyecto
+
+Familiarizarme con Unity, el motor de físicas, el manejo de escenas y la programación en C# en un entorno 2D.
 
 ## Características
 
